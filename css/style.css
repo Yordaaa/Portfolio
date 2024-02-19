@@ -292,9 +292,10 @@ header .navbar a:hover {
   top: 0;
   left: -100%;
   background: #fff9;
-  display: flex;
+  display: grid;
   align-items: center;
   justify-content: center;
+
 }
 
 .portfolio .box-container .box:hover .content {
